@@ -32,11 +32,11 @@ implemented google oauth using nextauth.js and handled their session
 
 pages/api/logoutPostApi.js -- backend api handler to destroy the session for the authenticated user
 
--->Output Screecshots are also included 
-
 Google oauth signout 
 
 # Profile
 pages/profile.js -- frontend which displays authorized user from jwt session or oauth session
+
+-->Output Screecshots are also included 
 
 
