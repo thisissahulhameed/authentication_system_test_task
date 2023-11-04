@@ -1,0 +1,67 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h2 {
+  color: blue;
+}
+
+h3 {
+  margin-left: 230px;
+}
+
+form {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 40px;
+  width: 300px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+.error {
+  color: red;
+  font-size: 13px;
+}
+
+.google-button {
+  margin-top: 10px;
+  background-color: white;
+  color: #000;
+  border-radius: 5px;
+}
+
+.google-icon {
+  width: 20px;
+  height: 20px;
+}
+
+span {
+  display: block;
+}
+
+.logout-btn {
+  background-color: red;
+}
+
