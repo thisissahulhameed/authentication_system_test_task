@@ -7,6 +7,7 @@
 
 # User Registration 
 pages/register.js -- frontend which displays the register form
+
 pages/api/registerPostApi.js -- backend api handler to save the data in MYSQL DB
 
 # User Login
